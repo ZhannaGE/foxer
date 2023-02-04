@@ -1,0 +1,109 @@
+body {
+    background-color: #e1dddd;
+}
+
+a {
+    text-decoration: none;
+    color: #4f5050;
+}
+
+h4 {
+    font-family: emoji;
+
+}
+
+.font-Apple {
+    font-family: "Apple Braille", serif;
+}
+
+a:hover {
+    color: #d7551d;
+}
+
+.nav-link {
+    color: #4f5050;
+}
+
+.nav-link:hover {
+    color: #d7551d;
+}
+
+.container {
+    padding-top: 20px;
+    color: #4f5050;
+}
+
+.btn {
+    background-color: #d7551d;
+    color: white;
+}
+
+
+.photo {
+    margin-top: 20px;
+    background-image: url("../image/office-worker.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+.photo-text {
+    color: white;
+    padding-top: 50px;
+    height: 500px;
+    width: 500px;
+}
+
+.photo-text .font-Apple {
+    font-size: 40px;
+}
+
+.photo-text button {
+    width: 300px;
+    height: 50px;
+    border: none;
+    color: #4f5050;
+}
+
+.main {
+    margin-top: 30px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+.info-block {
+    display: flex;
+}
+
+.info-row {
+    padding-left: 30px;
+}
+
+.list-group-item.active {
+    background-color: #484747;
+    color: white;
+    border: black;
+}
+
+.list-group {
+    padding-bottom: 10px;
+}
+
+.yellow {
+    color: #d7551d;
+}
+
+.nav-footer a {
+    display: block;
+    border-bottom: 1px solid #c7c6c6;
+    padding: 5px;
+}
+
+.footer {
+    margin-bottom: 50px;
+}
+
+.aside {
+    font-size: 14px;
+}
